@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yukihira2k
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me glen.mirandilla02@gmail.com
 
